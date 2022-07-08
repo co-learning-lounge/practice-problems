@@ -1,3 +1,5 @@
+Visit https://colearninglounge.com/blogs/ for more indepth and hands-on learning
+
 SELECT *
 FROM yog_ai.deliveries_3 
 LIMIT 5 ;
